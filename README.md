@@ -19,3 +19,9 @@ Now you can see the Saved Wifi networks on your screen
 Now, At last you can Enter the wifi name and see the password of the wifi
 
 ![pass](https://user-images.githubusercontent.com/63688597/175759117-5d7a549f-9977-4479-a8a9-9054a0c0f0bb.png)
+
+If you want to know the password of another wifi at one run you can type 'y' and you can continue
+
+![image](https://user-images.githubusercontent.com/63688597/176385280-9d182303-7eba-4f99-bcb4-9373c3060c7e.png)
+
+
